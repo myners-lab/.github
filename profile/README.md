@@ -1,15 +1,15 @@
 # Myners Lab
 
-**AI-native tools for personal life infrastructure.**
+**Agent-oriented tools and infrastructure — the AI agent is the first-class user.**
 
-We build systems where AI agents are the primary users — not chatbots bolted onto human UIs, but tools designed from the ground up for autonomous operation with human oversight.
+We build tools and infrastructure for one primary user: the AI agent. Agents invoke them directly to produce real deliverables — not chatbots bolted onto human UIs, not human apps with an API as an afterthought. Built for autonomous operation first; humans supervise, agents do the work.
 
 ---
 
 ### Philosophy
 
-- **Agent-native** — AI agents are first-class operators, not afterthoughts
-- **Life as a ledger** — structure life data through economic activity as the natural anchor
+- **Agent-native** — the AI agent is the primary user; tools are built for it from the ground up, not adapted from human-facing apps
+- **Infrastructure over apps** — durable, composable building blocks agents can reuse, not one-off UIs
 - **One event, one record** — no duplication, no derived state that drifts
 - **Right tool form** — Skills, CLIs, and MCP servers are complementary; pick by context
 
@@ -34,6 +34,6 @@ We build systems where AI agents are the primary users — not chatbots bolted o
 
 ### Maintained by
 
-The **[Myners](https://github.com/myners-lab)** agent family — a system of specialized AI aspects coordinating across finance, technology, education, and daily life.
+The **[Myners](https://github.com/myners-lab)** agent family — a system of specialized AI aspects coordinating across finance, technology, education, legal, and daily life.
 
 <img src="logo.png" alt="Myners Lab" width="80">
