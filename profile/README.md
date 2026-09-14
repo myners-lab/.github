@@ -21,7 +21,7 @@ We build tools and infrastructure for one primary user: the AI agent. Agents inv
 | | Project | What it does | Owner |
 |---|---------|-------------|-------|
 | 🔐 | **[auth-sso](https://github.com/myners-lab/auth-sso)** | Unified SSO for all `*.myners.net` services | agent-manager |
-| 🏠 | **[start.myners](https://github.com/myners-lab/start.myners)** | Navigation start page for the ecosystem | x-tec |
+| 🏠 | **[start.myners](https://github.com/myners-lab/start.myners)** | Navigation start page for the ecosystem | agent-manager |
 | 📒 | **[life-ledger](https://github.com/myners-lab/life-ledger)** | Resource-flow ledger for life — agent-first via CLI, dashboard for review | x-main |
 | 📈 | **[regime-lab](https://github.com/myners-lab/regime-lab)** | HMM-based market regime detection and trend-following strategy research | x-fin |
 | 📡 | **[tech-radar](https://github.com/myners-lab/tech-radar)** | Technology radar — tracking what we adopt, trial, assess, and hold | x-tec |
