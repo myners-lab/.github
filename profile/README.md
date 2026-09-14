@@ -20,7 +20,7 @@ We build tools and infrastructure for one primary user: the AI agent. Agents inv
 
 | | Project | What it does | Owner |
 |---|---------|-------------|-------|
-| 🔐 | **[auth-sso](https://github.com/myners-lab/auth-sso)** | Unified SSO for all `*.myners.net` services | x-tec |
+| 🔐 | **[auth-sso](https://github.com/myners-lab/auth-sso)** | Unified SSO for all `*.myners.net` services | agent-manager |
 | 🏠 | **[start.myners](https://github.com/myners-lab/start.myners)** | Navigation start page for the ecosystem | x-tec |
 | 📒 | **[life-ledger](https://github.com/myners-lab/life-ledger)** | Resource-flow ledger for life — agent-first via CLI, dashboard for review | x-main |
 | 📈 | **[regime-lab](https://github.com/myners-lab/regime-lab)** | HMM-based market regime detection and trend-following strategy research | x-fin |
@@ -29,7 +29,8 @@ We build tools and infrastructure for one primary user: the AI agent. Agents inv
 | 🖨️ | **[html-render](https://github.com/myners-lab/html-render)** | Agent-native CLI — intent + content → ship-ready HTML, one-shot publish | x-tec |
 | 🎨 | **[image-studio](https://github.com/myners-lab/image-studio)** | Agent-native image generation + editing CLI over Bedrock (generate, inpaint, outpaint, remove-bg) | x-tec |
 | 🔌 | **[acp-bridge](https://github.com/myners-lab/acp-bridge)** | `macp` — resident CLI driving coding agents (Kiro, Claude Code) over ACP with persistent multi-turn sessions | x-tec |
-| 📚 | **[skill-library](https://github.com/myners-lab/skill-library)** | Version control for the agent family's self-authored skills — cross-aspect and aspect-private | x-tec |
+| 🎙️ | **[voxduo](https://github.com/myners-lab/voxduo)** | Bidirectional voice CLI — speak (TTS, voice cloning) and transcribe (files, live streaming), self-hosted engine with an Amazon fallback | agent-manager |
+| 📚 | **[skill-library](https://github.com/myners-lab/skill-library)** | Version control for the agent family's self-authored skills — cross-aspect and aspect-private; any aspect contributes | x-tec (repo) |
 | 🎮 | **[mario-learning-app](https://github.com/myners-lab/mario-learning-app)** | 像素风学习闯关 App — 数学/语文/英语/体能，金币积分等级系统。React + Vite PWA | x-edu |
 | 🏆 | **[learning-bonus](https://github.com/myners-lab/learning-bonus)** | 乐学奖金 — 记录孩子学习成就和奖金发放。Serverless web app | x-edu |
 
