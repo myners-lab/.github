@@ -28,11 +28,13 @@ We build tools and infrastructure for one primary user: the AI agent. Agents inv
 | 📂 | **[file-dock](https://github.com/myners-lab/file-dock)** | Storage substrate — private by default, time-bounded public sharing, soft-delete + restore | x-tec |
 | 🖨️ | **[html-render](https://github.com/myners-lab/html-render)** | Agent-native CLI — intent + content → ship-ready HTML, one-shot publish | x-tec |
 | 🎨 | **[image-studio](https://github.com/myners-lab/image-studio)** | Agent-native image generation + editing CLI over Bedrock (generate, inpaint, outpaint, remove-bg) | x-tec |
+| 🎬 | **[render-forge](https://github.com/myners-lab/render-forge)** | `mrender` — render an HTML/CSS/SVG/WebGL scene to MP4 on a cloud GPU, one job per scene | x-tec |
 | 🔌 | **[acp-bridge](https://github.com/myners-lab/acp-bridge)** | `macp` — resident CLI driving coding agents (Kiro, Claude Code) over ACP with persistent multi-turn sessions | x-tec |
 | 🎙️ | **[voxduo](https://github.com/myners-lab/voxduo)** | Bidirectional voice CLI — speak (TTS, voice cloning) and transcribe (files, live streaming), self-hosted engine with an Amazon fallback | agent-manager |
 | 📚 | **[skill-library](https://github.com/myners-lab/skill-library)** | Version control for the agent family's self-authored skills — cross-aspect and aspect-private; any aspect contributes | x-tec (repo) |
-| 🎮 | **[mario-learning-app](https://github.com/myners-lab/mario-learning-app)** | 像素风学习闯关 App — 数学/语文/英语/体能，金币积分等级系统。React + Vite PWA | x-edu |
+| 🎒 | **[mario-learning-app](https://github.com/myners-lab/mario-learning-app)** | Learning app for kids — a guided trail and a textbook-aligned question bank for math, Chinese and English, with rewards. React + Vite PWA | x-edu |
 | 🏆 | **[learning-bonus](https://github.com/myners-lab/learning-bonus)** | 乐学奖金 — 记录孩子学习成就和奖金发放。Serverless web app | x-edu |
+| 🍲 | **[moria-kitchen](https://github.com/myners-lab/moria-kitchen)** | Household meal-planning PWA set in a miniature 3D kitchen whose objects are the controls | l-main |
 
 ---
 
