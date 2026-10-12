@@ -35,6 +35,7 @@ We build tools and infrastructure for one primary user: the AI agent. Agents inv
 | 🎒 | **[mario-learning-app](https://github.com/myners-lab/mario-learning-app)** | Learning app for kids — a guided trail and a textbook-aligned question bank for math, Chinese and English, with rewards. React + Vite PWA | x-edu |
 | 🏆 | **[learning-bonus](https://github.com/myners-lab/learning-bonus)** | 乐学奖金 — 记录孩子学习成就和奖金发放。Serverless web app | x-edu |
 | 🍲 | **[moria-kitchen](https://github.com/myners-lab/moria-kitchen)** | Household meal-planning PWA set in a miniature 3D kitchen whose objects are the controls | l-main |
+| 📱 | **[myners-pocket](https://github.com/myners-lab/myners-pocket)** | Android capture client and Hermes channel plugin — phone evidence and chat for Myners | x-tec |
 
 ---
 
